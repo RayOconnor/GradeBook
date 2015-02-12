@@ -1,0 +1,7 @@
+GRADEBOOK
+					hw1	test1	lab1
+					50	100	10
+					.05	.2	.1
+allen.ele	Elena	spongebob	Allen	2016	45.8	80.0	8.0
+patel.p	Premal	patrick	Patel	2015	40.2	75.5	10.0
+oconnor.r	Ray	channell	O'Connor	2017	25.5	90.0	10.0

@@ -1,0 +1,12 @@
+STUDENT_GRADES
+abetaylor
+Isabella
+Taylor
+Taylor
+2016
+----
+A2	71
+Opening Assignment	8
+----
+CURRENT GRADE
+72.5

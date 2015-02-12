@@ -1,0 +1,10 @@
+GRADES_FOR_ASSIGNMENT
+hw1
+oconnor.r
+35
+patel.p
+35
+allen.ele
+35
+noMan
+35
